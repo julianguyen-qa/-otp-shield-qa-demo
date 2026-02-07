@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.optshield.app-merged_res-31:/layout_alert_overlay.xml.flat",
+        "source": "com.optshield.app-main-33:/layout/alert_overlay.xml"
+    },
+    {
+        "merged": "com.optshield.app-merged_res-31:/xml_accessibilityservice_config.xml.flat",
+        "source": "com.optshield.app-main-33:/xml/accessibilityservice_config.xml"
+    },
+    {
+        "merged": "com.optshield.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.optshield.app-main-33:/layout/activity_main.xml"
+    }
+]

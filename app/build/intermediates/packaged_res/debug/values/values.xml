@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alert_bg">#C62828</color>
+    <color name="primary">#C62828</color>
+    <color name="primary_dark">#B71C1C</color>
+    <string name="alert_message">Someone may be trying to steal your code or send a malicious file. Never share OTP or install .apk from unknown sources.</string>
+    <string name="alert_title">DON\'T SHARE OTP/APK!</string>
+    <string name="app_name">OTP Shield</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="done">Done</string>
+    <string name="grant_permission">Grant</string>
+    <string name="notification_channel_desc">Monitoring active</string>
+    <string name="notification_channel_name">OTP Shield</string>
+    <string name="onboarding_subtitle">Grant these permissions to monitor and alert you.</string>
+    <string name="onboarding_title">Protect Your OTP</string>
+    <string name="permission_accessibility">Accessibility Service</string>
+    <string name="permission_accessibility_desc">Scan WhatsApp and apps for OTP / .apk links.</string>
+    <string name="permission_foreground">Keep Running</string>
+    <string name="permission_foreground_desc">Foreground service to keep monitoring active.</string>
+    <string name="permission_notifications">Notification Access</string>
+    <string name="permission_notifications_desc">Detect OTP and verification in notifications (no SMS read).</string>
+    <string name="permission_overlay">Display Over Other Apps</string>
+    <string name="permission_overlay_desc">Show full-screen alert when risk is detected.</string>
+    <style name="Theme.OTPShield" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+</resources>

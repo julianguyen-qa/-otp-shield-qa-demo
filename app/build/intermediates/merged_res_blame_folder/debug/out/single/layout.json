@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.optshield.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.optshield.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.optshield.app-mergeDebugResources-30:/layout/alert_overlay.xml",
+        "source": "com.optshield.app-main-33:/layout/alert_overlay.xml"
+    }
+]
